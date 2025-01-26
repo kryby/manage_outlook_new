@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
+<!-- PROJECT LOGO --> <br /> <div align="center"> <img src="images/ico.ico" alt="ManageOutlook" width="80" height="80"><h3 align="center">Manage Outlook New</h3> <p align="center"> 
 ## Overview
 The `manage_outlook_new.py` script is designed to manage the installation and configuration of Outlook New on Windows systems. It allows you to disable Outlook New, uninstall it, block future installations, and revert all changes made. Additionally, it can disable the built-in mail application in Windows and the Microsoft Store.
 
